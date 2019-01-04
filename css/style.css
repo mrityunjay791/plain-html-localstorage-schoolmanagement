@@ -1,0 +1,48 @@
+body {
+	border: 1px solid black;
+	margin: 100px;
+}
+
+.classDiv {
+	margin: 100px;
+	padding-left: 170px;
+}
+
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	width: auto;
+	background-color: #f1f1c1;
+}
+
+table {
+	width: 100% !important;
+}
+
+th, td {
+	padding: 5px;
+	text-align: center;
+}
+
+button {
+	padding-left: 10px;
+	margin-left: 10px;
+}
+
+.addClass {
+	float: right;
+}
+
+.saveBtn {
+	margin-right: 375px;
+	margin-top: 10px;
+	float: right;
+}
+
+p {
+	/* margin-left: 180px; */
+}
+
+.inputDiv {
+	margin-left: 100px;
+}
